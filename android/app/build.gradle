@@ -29,7 +29,7 @@ if (flutterVersionName == null) {
 
 android {
     namespace "com.example.hotnews_new"
-    compileSdk 35
+    compileSdk 34
     ndkVersion flutter.ndkVersion
 
     compileOptions {
